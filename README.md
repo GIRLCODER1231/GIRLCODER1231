@@ -2,7 +2,7 @@
 - my pronouns are she/her/hers
 - 👀 I’m interested in using my knowlage of computer science to make a postive change
 - 🌱 I’m currently learning c++
-- 💞 I’m looking to collaborate on
+- 💞 I’m looking to collaborate on a project that has to do with the enviorment
 - you can reach by my email - cgreenawalt24@gmail.com
 
 <!---
